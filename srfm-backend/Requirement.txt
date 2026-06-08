@@ -1,0 +1,35 @@
+I Want to make a website for a shop 
+Name of Shop : Shri Ram Force motors
+Address : Shiv Nagar , kanganpur road sirsa
+
+what owner want :
+when he opened website : a intro comes with Logo and Name Animated
+After that Admin Login page if token not exist 
+And After login 
+a home page which have good Hero Page i.e all things which is good fir for shop 
+navbar which have option : Dashboard , Staff Info , Work Done , New Work , Contact Details
+
+Now When Click on Staff info :
+It show List of Staff with Name , Phone Number , Adress 
+and a Add Staff Button to add new Staff
+and when click on any staff their profile open which show all details of staff i.e  Image, Name , Email , Phone Number, Gender, Address, Salary , Salary Given , Remaining Salary(According to Salry and given salary ) and it will store 1 years History and updated according to Joining Date of the staff 
+for example let assume a staff is join on 03-04-2026 on sal = 10000 now after 13 days he asked for some money and owner give me 3000 then on 03-04-2026 to 03-05-2026 the history 
+because Salary Given : 3000 also with date , Remaing Sal : 7000 
+let on 03-05-2026 he given only 6000 now Remaining salary is 1000 so it also shown in next  cycle i.e i want proper notes for salary because its very sensitive data 
+
+also on profile page it is given a button for give salary 
+
+now work done show all the work done by the shop it also contain 1 year's history  with search option with name of work , customer name 
+
+now what it store it store 
+what is work , customer name , customer mobile number, address, car name, car model ,  payment  ,  now also a option after addition Mark work done or work canceled , if owner click done then show option how much payment done , outside expense , payment Remaining add after click it added 
+this is when i click on new Work
+Conatct Details show Shop Owner Contact Details, Address with map i will copy the map details 
+
+Dashboard will show monthly all details i.e total work done , total payment receive , total outside expense i.e all things which you think is neccessary.
+
+
+
+// now of the work i all ready done i give you my zip file 
+// here i dont made database correct so make database schema correct accoring to project need but make sure the coding style is same as my 
+
